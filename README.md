@@ -4,4 +4,4 @@ I'm learning Godot beacuse Unity is evil XD
 
 # platzi-pong
 
-A very good guide on Godot
+A very good guide to Godot for beginners, explaining the interface well and an introduction to GDScript.
